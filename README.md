@@ -113,23 +113,6 @@ Key findings:
 
 ---
 
-## Project Structure
-
-```id="k8m1x2"
-brake_project/
-│── data/
-│   ├── phdiff.mat
-│   ├── graph_features.npy
-│
-│── extractfeatures.py
-│── feature_importance.py
-│── featurecorrelation.py
-│── main_classification.py
-│── README.md
-```
-
----
-
 ## Key Contributions
 
 * Symbolic graph representation of phase dynamics
