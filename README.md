@@ -4,7 +4,7 @@ Graph-based classification of synchronization states in friction-induced oscilla
 
 ## Overview
 
-This project presents a graph-based framework for classifying synchronization states in coupled oscillatory systems. The approach transforms phase-difference time-series signals into symbolic representations and constructs directed transition graphs to capture temporal dynamics. Graph-theoretic features are then extracted and used for machine learning-based classification.
+This project presents a graph-based framework for classifying synchronization states in coupled oscillatory systems. The approach transforms phase-difference time-series signals into symbolic representations and constructs directed transition graphs to capture temporal dynamics. Graph-theoretic features are then extracted and used for machine learning-based classification. (The whole idea/concept can be seen clearly in the ppt that has been uploaded - Maths-final review.pptx)
 
 ---
 
